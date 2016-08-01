@@ -1,0 +1,28 @@
+syntax: glob
+
+#projects
+site_settings.py
+.settings/*
+.project
+.pydevproject
+.cache/*
+.idea/*
+
+#temp files
+*.pyc
+*.pyo
+*.orig
+*~
+*.zip
+
+#os files
+.DS_Store
+.htaccess
+Thumbs.db
+
+#build files
+build/
+MANIFEST
+dist/
+media/
+static/CACHE

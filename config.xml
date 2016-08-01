@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>yamarket</name>
+	<displayName><![CDATA[Yandex Market]]></displayName>
+	<version><![CDATA[1.8.9]]></version>
+	<description><![CDATA[Provides price list export to Yandex Market]]></description>
+	<author><![CDATA[Roman Prokofyev]]></author>
+	<tab><![CDATA[smart_shopping]]></tab>
+	<confirmUninstall>Are you sure you want to delete your details ?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
